@@ -1,6 +1,4 @@
-import datetime
+x = (11,12,2014)
+print(x[0],"/",x[1],"/",x[2])
 
-datetime = input()
-
-
-print((datetime("%d")) "+" "/" "+" (datetime("%M")) "+" "/" "+" (datetime("%Y")))
+# print(y)
