@@ -1,3 +1,3 @@
 import datetime 
-x = datetime.datetime.now()
-print(x.strftime("%Y-%m-%d %H:%M:%S"))
+t = datetime.datetime.now()
+print(t.strftime("%Y-%m-%d %H:%M:%S"))
