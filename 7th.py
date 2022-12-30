@@ -1,3 +1,3 @@
 x = input()
 y = x.split(".")
-print(y[1])
+print(y[-1])
